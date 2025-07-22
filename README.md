@@ -63,7 +63,7 @@ This project analyzes Shopify sales data using Power BI to provide interactive i
 
 ## Author
 
-Huyen Pham – [Huyen Pham](https://www.linkedin.com/in/huyen-pham-b1a75bab/) | 
+Huyen Pham – [Linkedln link](https://www.linkedin.com/in/huyen-pham-b1a75bab/) | 
 
 
 ---
