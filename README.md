@@ -31,7 +31,10 @@ This project analyzes Shopify sales data using Power BI to provide interactive i
 
 ### Data Exploration  
 - Drill-through functionality to explore transaction-level details from summary visuals.
-
+![Dashboard](Dashboard/Unknown.jpg)
+![Dashboard1](Dashboard/Unknown-2.jpg)
+![Dashboard2](Dashboard/Unknown-3.jpg)
+![Dashboard3](Dashboard/Unknown-4.jpg)
 ---
 
 ## Data & Processing Steps
